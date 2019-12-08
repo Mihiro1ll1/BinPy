@@ -1,2 +1,2 @@
 # BinPy
-binary file function in Python
+binary file handling functions in Python
